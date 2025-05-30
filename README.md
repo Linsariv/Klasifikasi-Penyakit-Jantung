@@ -3,8 +3,8 @@
 Proyek ini bertujuan untuk membangun model klasifikasi berbasis algoritma Decision Tree untuk memprediksi apakah seorang pasien memiliki risiko penyakit jantung.
 
 ## Dataset
-Dataset yang digunakan adalah "Heart Disease UCI Dataset" yang tersedia di Kaggle:  
-https://www.kaggle.com/datasets/ronitf/heart-disease-uci
+Dataset yang digunakan adalah "Klasifikasi Penyakit Jantung" yang tersedia di Kaggle:  
+https://www.kaggle.com/code/dirgahalimsusilo/klasifikasi-penyakit-jantung 
 
 ## Tahapan Analisis
 1. Load dataset dan analisis eksploratif
